@@ -11,6 +11,6 @@ function makeSandwich() {
     console.log("Sandwich is ready!");
 }
 // Call the function with different number of arguments
-makeSandwich("Ham", "Cheese", "Lettuce", "Tomato");
-makeSandwich("Turkey", "Bacon", "Avocado");
+makeSandwich("cucumber", "Cheese", "Lettuce", "Tomato");
+makeSandwich("chicken", "Fish", "Avocado");
 makeSandwich("Tuna Salad");
