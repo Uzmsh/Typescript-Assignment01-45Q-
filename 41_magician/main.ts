@@ -1,6 +1,6 @@
 
 // Array of magician's names
-let magicians: string[] = ["Harry Houdini", "David Copperfield", "Penn Jillette", "Teller"];
+let magicians: string[] = [""Haris", "Dawood", "Junaid", "Tallal"];
 
 
 //function with parameters
