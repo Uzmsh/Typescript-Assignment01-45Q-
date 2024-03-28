@@ -1,7 +1,7 @@
 
-
+//function with let and for
 //array 
-let magicians: string[] = ["Harry Houdini", "David Copperfield", "Penn Jillette", "Teller"];
+let magicians: string[] = ["Haris", "Dawood", "Junaid", "Tallal"];
 
 
 function show_magicians(magicians: string[]): void {
